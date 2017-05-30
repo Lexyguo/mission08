@@ -19,18 +19,18 @@
 
   四则运算提交记录
 
-![四则运算提交记录](/Users/apple/Desktop/四则运算提交记录.jpg)
+![四则运算提交记录](/Users/apple/Desktop/四则运算提交记录.png)
 
-markdown版简历提交记录![markdown版简历提交记录](/Users/apple/Desktop/四则运算提交记录.jpg)
+markdown版简历提交记录![markdown版简历提交记录](/Users/apple/Desktop/四则运算提交记录.png)
 
 - 任务成果截图：
 
-  四则运算最后代码：![1](/Users/apple/Desktop/1.jpg)
-
-  ![2](/Users/apple/Desktop/2.jpg)
-
-  ![3](/Users/apple/Desktop/3.jpg)简历成果图
-
+  四则运算最后代码：
+  ![1](/Users/apple/Desktop/1.png)
+  ![2](/Users/apple/Desktop/2.png)
+  ![3](/Users/apple/Desktop/3.png)
+  
+  简历成果图：
   ![img](http://images2015.cnblogs.com/blog/1100859/201704/1100859-20170406101802613-1344203631.png)
 
 ## 感悟
